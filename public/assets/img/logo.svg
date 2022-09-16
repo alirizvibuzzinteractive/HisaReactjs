@@ -1,0 +1,32 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118 60" width="200" height="102">
+	<title>Hisa SVG Logo-svg</title>
+	<defs>
+		<image  width="33" height="49" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAxAQMAAABu/FK3AAAAAXNSR0IB2cksfwAAAAZQTFRFJTp+////ksl80AAAAAJ0Uk5TAP9bkSK1AAAARUlEQVR4nGOoP8AABP8fUIl8/B9EPv8PNPX///8fwOQPMPkHifyHRP5HkPYg8g8/iPzB/r+B4f8HDPIBPUlmEHmA+T8DAEIzlVmKhnMtAAAAAElFTkSuQmCC"/>
+		<image  width="12" height="36" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAkAQMAAACHREn/AAAAAXNSR0IB2cksfwAAAAZQTFRFJTp+////ksl80AAAAAJ0Uk5TAP9bkSK1AAAAFElEQVR4nGNgYGCo/8Dwn/ao/gEAriBCnhdSP0kAAAAASUVORK5CYII="/>
+		<image  width="29" height="37" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAlAQMAAACEdHCMAAAAAXNSR0IB2cksfwAAAAZQTFRFJTp+////ksl80AAAAAJ0Uk5TAP9bkSK1AAAAbklEQVR4nE3NsQ3DMBBD0Q+ocOkRvEgAjXYeLZ4gK2gElSoMMzxbAaLiFQeSgtoBnVAkWKSdVXqzSe2hSv2fEb6NCvV6GWfNwOEr+Q0s2S0JWXOmUz4OroeJFgP1RJpE5mJ+1B62ObV7yvO4cL8vBQ1fwz7cGs8AAAAASUVORK5CYII="/>
+		<image  width="37" height="36" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAkAQMAAAA0DGHlAAAAAXNSR0IB2cksfwAAAAZQTFRFJTp+////ksl80AAAAAJ0Uk5TAP9bkSK1AAAAYklEQVR4nG3PwQ3AIAgF0G88eHQER2E0R+hI7SiOwNFDIxZsDYcS8sIJPkBoeIoGMSByMqKIMJKZncUkZx1R7UFliLUO7ZW2l7P9WPnrbkvuaFeOfas4s0u40q7kqKJfpA5MKQt5daS8ahoAAAAASUVORK5CYII="/>
+		<linearGradient id="g1" x1="57.3" y1="-1.8" x2="42.3" y2="16.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#253a7e"/>
+			<stop offset=".7" stop-color="#ea2290"/>
+			<stop offset="1" stop-color="#ea2290"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="a">
+	</g>
+	<g id="b">
+		<g id="c">
+			<g id="Layer">
+				<g id="Layer">
+					<use id="Layer" href="#img1" x="0" y="10"/>
+					<use id="Layer" href="#img2" x="37" y="23"/>
+					<use id="Layer" href="#img3" x="51" y="23"/>
+					<use id="Layer" href="#img4" x="81" y="23"/>
+				</g>
+				<path id="Layer" class="s0" d="m53.7 15.8l-1.8-1.8c-0.7-0.6-1.6-0.8-2.4-0.4l-6.2 3.1c-1.7 0.9-3.6-1-2.7-2.8l3-6.1c0.4-0.8 0.3-1.7-0.4-2.3l-1.9-2c-1.3-1.3-0.4-3.5 1.4-3.5h12.3c1.2 0 2.1 0.9 2.1 2l0.1 12.4c0 1.8-2.2 2.7-3.5 1.4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

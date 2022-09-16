@@ -1,0 +1,194 @@
+:root {
+  --main-bg-color: #ea2290;
+  --secondary-bg-color: #253a7e;
+  --gray-color: #f8f8f8;
+  --color1: #cfdfff;
+  --color2: #d0f0fd;
+  --color3: #c2f5e9;
+  --color4: #d1f7c4;
+  --color5: #ffeab6;
+  --color6: #fee2d5;
+  --color7: #ffdce5;
+  --color8: #ffdaf6;
+  --color9: #ede2fe;
+  --color10: #eeeeee;
+
+}
+.bg1{
+  background-color: var(--color1);
+}
+.bg2{
+  background-color: var(--color2);
+}
+.bg3{
+  background-color: var(--color3);
+}
+.bg4{
+  background-color: var(--color4);
+}
+.bg5{
+  background-color: var(--color5);
+}
+.bg6{
+  background-color: var(--color6);
+}
+.bg7{
+  background-color: var(--color7);
+}
+.bg8{
+  background-color: var(--color8);
+}
+.bg9{
+  background-color: var(--color9);
+}
+.bg9{
+  background-color: var(--color9);
+}
+.bg10{
+  background-color: var(--color10);
+}
+
+
+.bg-primary {
+  background-color: var(--main-bg-color) !important;
+}
+.bg-secondary {
+  background-color: var(--secondary-bg-color) !important;
+}
+.text-primary {
+  color: var(--main-bg-color) !important;
+}
+.text-secondary {
+  color: var(--secondary-bg-color) !important;
+}
+.text-white {
+  color: white !important;
+}
+.hoverSocialLogin:hover {
+  background-color: var(--main-bg-color) !important;
+  color: white !important;
+}
+.w-4rem {
+  width: 4rem !important;
+}
+.hover {
+  cursor: pointer;
+}
+.b-left-2 {
+  border-left: 2px solid var(--main-bg-color);
+}
+.b-right-2 {
+  border-right: 2px solid var(--main-bg-color);
+}
+.b-bottom-1 {
+  border-bottom: 1px solid var(--main-bg-color);
+}
+.z-index{
+  z-index: 999999999!important;
+}
+.w140px{
+  width: 140px!important;
+}
+.mr-5px {
+  margin-right: 5px !important;
+}
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex!important;
+}
+.d-inline-block {
+  display: inline-block!important;
+}
+.chevrondownicon {
+  width: 11px;
+  margin-left: 3px;
+}
+.width-100 {
+  width: 100% !important;
+}
+.BellNofic {
+  position: absolute;
+  height: 4px;
+  width: 4px;
+  background: #ea2099;
+  border-radius: 50%;
+}
+.bg-baceColor {
+  background-color: white;
+  min-height: 500px;
+  box-shadow: 0px 0px 15px #0000004a;
+}
+.min-h-full {
+  min-height: 100vh;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.bg-indigo-600 {
+  background-color: var(--main-bg-color) !important;
+  color: white !important;
+}
+.text-indigo-600 {
+  color: var(--main-bg-color) !important;
+}
+.box-shadow-unset {
+  box-shadow: unset !important;
+}
+.v-center {
+  display: flex;
+  align-items: center;
+}
+.cbadge {
+  text-transform: capitalize !important;
+  display: inline;
+  padding: 5px;
+  border-radius: 5px;
+}
+.bg-trans{
+  background-color: #00000057!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* DATATABLE STYLE */
+.css-dmmspl-MuiFormGroup-root {
+  margin-left: 15px !important;
+  margin-right: 50px;
+}
+.css-1nrlq1o-MuiFormControl-root {
+  margin-right: 10px;
+}
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.Mui-checked,
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root.MuiCheckbox-indeterminate {
+  color: var(--main-bg-color) !important;
+}
+.tss-10rusft-MUIDataTableToolbar-icon:hover {
+  color: var(--main-bg-color) !important;
+}
+.tss-1akey0g-MUIDataTableHeadCell-data {
+  font-weight: bold;
+}
+.css-1a1fmpi-MuiInputBase-root-MuiInput-root:after {
+  border-bottom: 2px solid var(--main-bg-color) !important;
+}
+.css-1ex1afd-MuiTableCell-root {
+  padding: 0px 16px !important;
+}
+.css-1w1rijm-MuiButtonBase-root-MuiButton-root{
+  padding: unset!important;
+  min-width:unset!important
+}
+.tss-1cdcmys-MUIDataTable-responsiveBase{
+  z-index: 0!important;
+}
